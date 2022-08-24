@@ -1,0 +1,15 @@
+{
+  "name": "employees-report",
+  "version": "1.0.0",
+  "description": "",
+  "main": "employee.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^28.1.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
